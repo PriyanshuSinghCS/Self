@@ -1,3 +1,5 @@
+// WAP to print sum of the even digits of given number.
+
 #include <stdio.h>
 
 int main(){

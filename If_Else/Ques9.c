@@ -12,4 +12,4 @@ int main(){
     if(ch ='b')
     printf("Surprise");
     return 0;
-}
+} 

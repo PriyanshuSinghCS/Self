@@ -13,6 +13,7 @@
 // int main(){
 //     char ch = '9';
 //     int x = (int)ch;
+//     int x = ch - '0';  // gives 9
 //     printf("%d",x);
 //     return 0;
 // }

@@ -1,5 +1,5 @@
 #include <stdio.h>
-int decreasing(int x){
+int decreasing(int x){ //int likhne ka matlab hai ki mai yaha ek integer value pass kar raha hu
     if(x==1){
         return 1;
     }

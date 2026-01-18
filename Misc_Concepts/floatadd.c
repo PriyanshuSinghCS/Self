@@ -7,6 +7,6 @@ int main(){
    // float w = 5/2;
    // printf("%f\n",z);
    // printf("%f\n",w); 
-    printf("%f",5/2);  
+    printf("%f",5/2);  // wrong format specifier is used
     return 0;
 }

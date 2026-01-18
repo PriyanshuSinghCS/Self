@@ -1,3 +1,6 @@
+// jab ham array ko as a argument bhajte hai kisi function me 
+// to uski value nahi jati balki pura address jata hai array ka
+
 #include <stdio.h>
 void fun(int arr[]){ //yaha par array ki size likhne ki zrurt nhi hai kyuki abhi funcn ko nahi pata kaun sa array pass kia ja raha hai
     int temp = arr[0];

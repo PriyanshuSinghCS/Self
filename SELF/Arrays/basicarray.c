@@ -18,7 +18,7 @@
 #include <stdio.h>
 
 int main(){
-    int arr[5];
+    int arr[5]; //iska mtlb hai ki hamne arr name ka ek array bana diya jiska size 5 hai
     for(int i = 0; i<=4;i++){
         printf("Enter arr[%d]: ",i);
         scanf("%d",&arr[i]);        

@@ -8,7 +8,7 @@
 #include <stdio.h>
 
 int main(){
-    int l,b;;
+    int l,b;
     printf("Enter no of rows: ");
     scanf("%d",&l);
     printf("Enter no of columns: ");

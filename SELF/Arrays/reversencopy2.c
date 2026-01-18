@@ -15,7 +15,6 @@ int main(){
     printf("arr[7]:");
     reverse (arr);
     for(int i=0;i<=6;i++){
-        
         printf(" %d ",arr[i]);
     }
     return 0;
